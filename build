@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#xelatex main-pub.tex
+xelatex Shreyas_USC.tex
+xelatex Shreyas_Systems.tex
+
+rm *.aux
+rm *.log
+rm *.out
