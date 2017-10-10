@@ -2,7 +2,7 @@
 
 #xelatex main-pub.tex
 xelatex Shreyas_USC.tex
-xelatex Shreyas_Systems.tex
+xelatex Shreyas_DataScience.tex
 
 rm *.aux
 rm *.log
