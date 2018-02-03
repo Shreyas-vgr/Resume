@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #xelatex main-pub.tex
-xelatex Shreyas_USC.tex
-xelatex Shreyas_DataScience.tex
+#xelatex Shreyas_USC.tex
+xelatex Shreyas.tex
 
 rm *.aux
 rm *.log
